@@ -20,16 +20,6 @@
 
 ---
 
-### 🤝 Connect & Support
-
-<div align="center">
-  <a href="https://zoxdev.my.id/"><img src="https://img.shields.io/badge/Website-zoxdev.my.id-0D9488?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>&nbsp;
-  <a href="https://github.com/zacxyonly"><img src="https://img.shields.io/badge/GitHub-@zacxyonly-18181B?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://sociabuzz.com/zacxyonly/tribe"><img src="https://img.shields.io/badge/SociaBuzz-Support%20My%20Work-FF5722?style=flat-square&logo=coffeescript&logoColor=white" alt="SociaBuzz" /></a>
-</div>
-
-<br/>
-
 <div align="center">
   <sub>⚡ <i>"Stay humble, keep building, keep learning."</i></sub>
 </div>
